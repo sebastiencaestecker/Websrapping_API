@@ -28,7 +28,7 @@ L'objectif est d'aider les utilisateurs à prendre des décisions informées et 
 - **Langages** : Python
 - **Bibliothèques** : Pandas, Requests, Scrapping, Plotly
 - **APIs** : Nominatim (données GPS), OpenWeatherMap (météo)
-- **Outils de Scraping** : BeautifulSoup, Selenium
+- **Outils de Scraping** : Scrapping
 
 ---
 
