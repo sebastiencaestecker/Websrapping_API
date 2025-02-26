@@ -26,9 +26,9 @@ L'objectif est d'aider les utilisateurs à prendre des décisions informées et 
 ## 📚 Technologies Utilisées
 
 - **Langages** : Python
-- **Bibliothèques** : Pandas, Requests, Scrapping, Plotly
+- **Bibliothèques** : Pandas, Requests, Scrappy, Plotly
 - **APIs** : Nominatim (données GPS), OpenWeatherMap (météo)
-- **Outils de Scraping** : Scrapping
+- **Outils de Scraping** : Scrappy
 
 ---
 
